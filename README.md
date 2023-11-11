@@ -7,15 +7,14 @@
   🌱 I’m currently learning a Computer Science
 I'm on my 3’rd year in Computer Science and Mathematics with a specialization in Cyber Security
 
+
 <div align="center"> 
   <a herf="mailto:shaharuli52@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a herf="https://www.linkedin.com/in/shahar-zaidel/" target="_blank"> 
+  <a herf="https://www.linkedin.com/in/shahar-zaidel" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  
 </div>
   
 
