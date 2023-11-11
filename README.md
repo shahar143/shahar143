@@ -64,6 +64,8 @@ I'm on my 3’rd year in Computer Science and Mathematics with a specialization 
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahar143&theme=radical)
 
+  ![GitHub Stats](https://github-readme-activity-graph.cyclic.app/graph?username=shahar143)
+
   
   
   
