@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Shahar Zaidel
+- 🌱 I’m currently learning a Computer Science degree in Ariel University
+
+  ![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+
 
 <!--
 **shahar143/shahar143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
