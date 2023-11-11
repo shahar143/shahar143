@@ -1,7 +1,8 @@
 ## Hi there, I'm Shahar Zaidel
 - 🌱 I’m currently learning a Computer Science degree in Ariel University
 
-  ![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api username=shahar143 &theme=radical)
+  
 
 
 <!--
