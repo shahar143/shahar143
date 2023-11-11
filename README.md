@@ -1,11 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 
-<h1 align="center"> Hi there, I'm Shahar Zaidel </h1>
-
+<h1 align="center"> Hi there, I'm Shahar Zaidel ✨ </h1>
   
-  🌱 I’m currently learning a Computer Science
-I'm on my 3’rd year in Computer Science and Mathematics with a specialization in Cyber Security
+- 🌱 I’m currently on my 3’rd year in Computer Science and Mathematics degree with a specialization in Cyber Security
+- 💬 Ask me about Cyber Security, Computer Networks and every skill, language or framework you see on this page
+- You can see me resume ![here](file:///C:/Users/shaha/OneDrive/Desktop/cv/cv-%20Shahar%20Zaidel.pdf)
+
+
+
 
 
 <div align="center"> 
@@ -19,7 +22,8 @@ I'm on my 3’rd year in Computer Science and Mathematics with a specialization 
 
 <hr/>
 
-<div align="center"> Languages
+<h2 align="center"> Languages </h2>
+<div align="center"> 
 <br/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -27,7 +31,8 @@ I'm on my 3’rd year in Computer Science and Mathematics with a specialization 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-<div align="center"> Skills
+<h2 align="center"> Skills </h2>
+<div align="center"> 
 <br/>
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -46,7 +51,8 @@ I'm on my 3’rd year in Computer Science and Mathematics with a specialization 
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 </div>
 
-<div align="center"> Frameworks
+<h2 align="center"> Frameworks </h2>
+<div align="center"> 
 <br/>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
@@ -60,13 +66,16 @@ I'm on my 3’rd year in Computer Science and Mathematics with a specialization 
 </div>
 
 <hr/>
-<h2 align="center"> stats
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahar143&theme=radical)
+<h2 align="center"> stats </h2>
+<div align="center">  
+  <a href="https://github.com/shahar143/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shahar143&theme=radical" />
+  </a>
+  <a href="https://github.com/shahar143/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahar143&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
-  ![GitHub Stats](https://github-readme-activity-graph.cyclic.app/graph?username=shahar143)
-
-  
   
   
 
