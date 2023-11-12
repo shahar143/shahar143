@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently on my 3’rd year in Computer Science and Mathematics degree with a specialization in Cyber Security
 - 💬 Ask me about Cyber Security, Computer Networks and every skill, language or framework you see on this page
-- You can see me resume ![here](file:///C:/Users/shaha/OneDrive/Desktop/cv/cv-%20Shahar%20Zaidel.pdf)
+- 
 
 
 
